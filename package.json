@@ -1,7 +1,10 @@
 {
   "name": "chat-pvt-frt",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "query-string": "^6.8.2",
