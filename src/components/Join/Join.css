@@ -55,6 +55,12 @@ body {
   margin-top: 20px;
 }
 
+@media (min-width: 480px) and (max-width: 700px) {
+  .joinInnerContainer {
+    width: 55%;
+  }
+}
+
 @media (min-width: 320px) and (max-width: 480px) {
   .joinOuterContainer {
     height: 100%;
