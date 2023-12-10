@@ -17,6 +17,3 @@ Comando para buildar o projeto e subir ao servidor.
 ```
 npm run build
 ```
-
-### DEMO
-https://private-chat-auxilium.herokuapp.com/
